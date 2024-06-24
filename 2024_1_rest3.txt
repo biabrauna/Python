@@ -1,0 +1,2 @@
+Mesa 1,4,risoto,45,estrogonofe,35,yakisoba,30,salada,30,vinho,50
+Mesa 4,8,risoto,45,risoto,45,estrogonofe,35,escalopinho,50,salada,30,estrogonofe,35,yakisoba,30,salada,30,refrigerante,7,refrigerante,7,refrigerante,7,refrigerante,7,refrigerante,7,refrigerante,7,refrigerante,7,refrigerante,7

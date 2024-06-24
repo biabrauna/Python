@@ -1,0 +1,6 @@
+Mesa 2,4,coca-cola,6.9,hamburger,20.5,pizza,5,agua,2.4,coca-cola,6.9,coca-cola,6.9,coca-cola,6.9,pizza,5
+Mesa 3,2,salgado,4.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5
+Mesa 4,2,hamburger,20.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5,salgado,4.5
+Mesa 10,10,hamburger,20.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5,hamburger,20.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5,hamburger,20.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5,hamburger,20.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5,hamburger,20.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5
+Mesa 20,5,mate,5,cerveja,5,cerveja,5,suco de laranja,8,coca-cola,6.9
+Mesa 1,2,sanduiche,7,coca-cola,6.9,pizza,5,pizza,5

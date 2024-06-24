@@ -1,0 +1,5 @@
+Mesa 1,1,sanduiche,7,coca-cola,6.9
+Mesa 2,4,coca-cola,6.9,hamburger,20.5,pizza,5,agua,2.4,coca-cola,6.9
+Mesa 3,2,hamburger,20.5,mate,5,hamburger,20.5,mate,5,batata frita,4.5
+Mesa 10,3,pizza,5,pizza,5,pizza,5
+Mesa 7,2,cerveja,5,cerveja,5,cerveja,5,cerveja,5
